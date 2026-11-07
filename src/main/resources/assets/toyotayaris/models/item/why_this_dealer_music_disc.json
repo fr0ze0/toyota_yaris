@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "toyotayaris:item/why_this_dealer_music_disc"
+  }
+}
